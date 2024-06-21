@@ -15,11 +15,11 @@ body{
     align-items: center;
     justify-content: space-between;
     background-color: none;
-    background-color: rgba(188, 203, 214, 0.1);
+    background-color: rgba(182, 16, 52, 0.1);
     backdrop-filter: blur(6px);
 }
 .Transfer, ul, li, a{
-    color: rgb(139, 95, 95);
+    color: rgb(63, 85, 146);
     font-size: 20px;
     font-weight: 620;
     font-family: 'Times New Roman', Times, serif
@@ -53,7 +53,7 @@ body{
 .btn-1{
     margin: 30px;
     padding: 10px 20px 10px 20px;
-    border: 1px solid red;
+    border: 1px solid rgb(177, 187, 43);
     border-radius: 10px;
     cursor: pointer;
     background: none;
@@ -82,7 +82,7 @@ body{
 
 .boxforcontactus {
   padding: 16px;
-  background-color: rgba(76, 109, 170, 0.534);
+  background-color: rgba(7, 15, 29, 0.534);
   backdrop-filter: blur(6px);
   display: ;
   justify-content: center;
